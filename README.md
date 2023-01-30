@@ -87,7 +87,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![OUTPUT](./exo5out1.png)
+![OUTPUT](./out5.png)
 
 
 ## Result:
